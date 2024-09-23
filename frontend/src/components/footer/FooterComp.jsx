@@ -144,7 +144,7 @@ const FooterComp = () => {
           </div>
           <div className="copyright-content">
             <p>
-              © <b>Nestu</b> is Proudly Owned by <a href="https://hibotheme.com/" target="_blank" rel="noopener noreferrer">HiboTheme</a>
+              © <b>Daniyal</b> is Proudly Owned by <a href="https://hibotheme.com/" target="_blank" rel="noopener noreferrer">HiboTheme</a>
             </p>
           </div>
         </div>
